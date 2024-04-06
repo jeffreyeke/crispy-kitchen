@@ -92,13 +92,13 @@
         <repository>
             <id>nexus</id>
             <name>Nexus Release Repository</name>
-            <url>http://34.228.60.159:8081/repository/crispy-kitchen-release/</url>
+            <url>http://44.202.25.55:3000/repository/crispy-kitchen-release/</url>
         </repository>
 
         <snapshotRepository>
             <id>nexus</id>
             <name>Nexus Snapshot Repository</name>
-            <url>http://34.228.60.159:8081/repository/crispy-kitchen-snapshot/</url>
+            <url>http://44.202.25.55:3000/repository/crispy-kitchen-snapshot/</url>
         </snapshotRepository>
     </distributionManagement>
 
